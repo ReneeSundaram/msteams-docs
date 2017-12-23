@@ -6,18 +6,18 @@ keywords: teams preview developer
 
 # What is the Public Developer Preview for Microsoft Teams?
 
-Public Developer Preview is a program for developers that provides early access to unreleased features. Features included in preview may not be complete and may undergo changes before becoming available in the public release. 
+Public Developer Preview is a program for developers that provides early access to unreleased features. Features included in preview may not be complete and may undergo changes before becoming available in the public release.
 
 ## How do I get access?
 
-To participate in the Public Developer Preview, you need to do the following: 
+To participate in the Public Developer Preview, you need to do the following:
 
-1.	Turn on the setting for enabling uploading of apps in the admin console of your tenant as described [here](~/get-started/get-started#3-enable-uploading-of-apps-for-microsoft-teams).
+1. Turn on the setting for enabling uploading of apps in the admin console of your tenant as described in [Prepare your Office 365 tenant](~/get-started/get-started-tenant).
 
-2.	The Teams client shows a menu item for switching to the preview under Menu → About.
+2. The Teams client shows a menu item for switching to the preview under Menu → About.
 
    ![Developer preview setting](~/assets/images/publicpreview.png)
- 
+
 Note that features available to you in preview mode might result in messages that don't render correctly for other people who might be using a public version of the Teams client.
 
 ## How do I turn it off?
